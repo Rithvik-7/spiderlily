@@ -1,5 +1,8 @@
 # Spiderlily
 
+**Live (Chrome):** https://rithvik-7.github.io/spiderlily/
+
+
 An interactive spider lily that grows and blooms in response to your hands, using
 MediaPipe hand tracking. It comes in two forms:
 
@@ -18,7 +21,7 @@ the flowers.
 Clone the repo:
 
 ```bash
-git clone https://github.com/cupidbity/spiderlily.git
+git clone https://github.com/Rithvik-7/spiderlily.git
 cd spiderlily
 ```
 
